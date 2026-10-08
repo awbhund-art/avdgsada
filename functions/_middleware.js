@@ -11,8 +11,6 @@ export async function onRequest(context) {
       const ogHtml = `<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="facebook-domain-verification"
-content="5xj05egr00ee1rn77myvrh2z46tttz" />
     <meta charset="UTF-8">
     <meta property="og:title" content="yyyyyyy" />
     <meta property="og:image" content="http://raw.githubusercontent.com/awbhund-art/asdaxa/refs/heads/main/274928526844772684.jpg" />
